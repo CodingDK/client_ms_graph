@@ -1,0 +1,25 @@
+{
+  "name": "client_ms_graph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodingDK/client_ms_graph.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodingDK/client_ms_graph/issues"
+  },
+  "homepage": "https://github.com/CodingDK/client_ms_graph#readme",
+  "dependencies": {
+    "@microsoft/microsoft-graph-client": "^1.0.0"
+  },
+  "devDependencies": {
+    "express": "^4.16.2"
+  }
+}
